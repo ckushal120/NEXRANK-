@@ -1,0 +1,6 @@
+{
+  "name": "NEXRANK",
+  "description": "An AI-powered preparation coach and mock exam simulator for IIT-JEE aspirants of Physics, Chemistry, and Mathematics featuring real-time JEE interfaces, diagnostic analytics, mistake books, and competitive battles.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
